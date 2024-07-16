@@ -4,7 +4,7 @@ import HeroSection from './Components/HeroSection'
 import Features from './Components/Features'
 import Workflow from './Components/Workflow'
 import Pricing from './Components/Pricing'
-import Footer from './Components/Testmonial'
+import Footer from './Components/Footer'
 import Testmonial from './Components/Testmonial'
 
 
