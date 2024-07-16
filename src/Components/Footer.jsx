@@ -48,7 +48,14 @@ const Footer = () => {
             ))}
           </ul>
         </div>
+        
       </div>
+      <footer class="bg-gray-800 p-4">
+        <div class="text-sm text-center text-gray-400">
+             &copy; 2024 @mouryakumar. All rights reserved.
+        </div>
+      </footer>
+
     </footer>
   );
 };
